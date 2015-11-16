@@ -1,0 +1,117 @@
+---
+title: "The author's experience on data sharing"
+author: Stephen J Eglen
+date: 2015-11-17
+output:
+  revealjs::revealjs_presentation:
+    theme: sky
+    transition: fade
+    highlight: pygments
+    center: false
+---
+
+# Background
+
+- Current problem: "Please resend your manuscript/figures as format
+XYZ".  Journals have their own formatting requirements.
+
+- Will data sharing become equally difficult?
+
+- Caveat: I'm in favour of data sharing, and might be more patient
+than the typical researcher.
+
+<!-- We invite you to attend and would be very grateful if you could also -->
+<!-- give a 10 minute presentation on challenges and expectations from the -->
+<!-- perspective of an author being required to deposit data in large -->
+<!-- community resources as part of publishing in a journal. -->
+
+# Where to share?
+
+* Certain fields (genomics) have established repos.
+
+
+* Others, like neuroscience, lack coherence.
+
+
+* Journals should work with existing repositories, rather than create
+their own ones.
+
+* Stashing material in supplementary information better than nothing.
+(But please, not in Word/PDF!)
+
+
+# What to share?
+
+- How much is useful?  Too little / too much?
+
+- Share what is *useful*.  e.g. connectivity database of mouse brain.
+
+- But often hard to discern in advance what others might want to do
+with your data.
+
+- Data formats are a big issue.  No consensus in neuroscience.
+
+# When to share?
+
+Some choices:
+
+- Day 1 of project.  http://opensourcebrain.org
+
+- Day of paper submission. (me)
+
+- Day of paper acceptance.
+
+- "On demand", when someone asks for it.
+
+
+# Why share?
+
+- This slide intentionally left blank!
+
+
+# Common barriers to sharing
+
+
+- Competitive edge
+
+- Confidentiality issues
+
+- Time
+
+- Money
+
+- Licenses for data (CC0?)  *I am still unclear about this*
+
+- Does computer code count as data?
+
+- Metadata
+
+- Documentation
+
+
+
+# Expectations (wishes) from my side
+
+- Work with existing workflows (e.g. github - switch from private
+to public in seconds, but no good for large data).
+
+- Allow to correct mistakes (e.g. figshare vs zenodo).
+
+- Make it easier to upload/download data; seamless access (Dropbox).
+
+- Allow access to repos at any time, so that you can use throughout
+  lifetime of project.
+
+# Requests to journals
+
+- Journal editors need to request more data.
+
+- Journals should (continue to) work with communities to develop good practice.
+
+- Help should be available for those willing, but unable, to share.
+
+- And finally, as a consumer (not producer), help me when data unavailable.
+
+
+<!-- note where slides can be downloaded from -->
+<!--  -->
