@@ -13,7 +13,7 @@ output:
 # Background
 
 - Current problem: "Please resend your manuscript/figures as format
-XYZ".  Journals have their own formatting requirements.
+XYZ".
 
 - Will data sharing become equally difficult?
 
@@ -27,11 +27,9 @@ than the typical researcher.
 
 # Where to share?
 
-* Certain fields (genomics) have established repos.
-
+* Certain fields (genomics) have established repositories.
 
 * Others, like neuroscience, lack coherence.
-
 
 * Journals should work with existing repositories, rather than create
 their own ones.
@@ -42,7 +40,7 @@ their own ones.
 
 # What to share?
 
-- How much is useful?  Too little / too much?
+- Difficulty of sharing too little / too much.
 
 - Share what is *useful*.  e.g. connectivity database of mouse brain.
 
